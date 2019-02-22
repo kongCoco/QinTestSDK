@@ -7,6 +7,7 @@
 //
 
 #import "QINViewController.h"
+#import "QINTest.h"
 
 @interface QINViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [[QINTest new] printString];
 }
 
 - (void)didReceiveMemoryWarning

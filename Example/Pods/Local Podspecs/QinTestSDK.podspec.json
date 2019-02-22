@@ -1,0 +1,22 @@
+{
+  "name": "QinTestSDK",
+  "version": "0.1.0",
+  "summary": "A short description of QinTestSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13780900915@163.com/QinTestSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13780900915@163.com": "kongxiangsheng@edspay.com"
+  },
+  "source": {
+    "git": "https://github.com/13780900915@163.com/QinTestSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QinTestSDK/Classes/**/*"
+}

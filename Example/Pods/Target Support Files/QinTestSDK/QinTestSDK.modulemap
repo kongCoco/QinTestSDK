@@ -1,0 +1,6 @@
+framework module QinTestSDK {
+  umbrella header "QinTestSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

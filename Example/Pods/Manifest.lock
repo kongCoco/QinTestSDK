@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - QinTestSDK (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - QinTestSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  QinTestSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  QinTestSDK: ac432a589e69ab0c935ca96f84f015ab0a5a3bd9
+
+PODFILE CHECKSUM: 6d093ff834e82c1615f155fa45df5f1d293cb056
+
+COCOAPODS: 1.5.3
